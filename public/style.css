@@ -1,0 +1,14 @@
+body {
+  background: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+.card {
+  border-radius: 12px;
+}
+.btn {
+  font-weight: 500;
+}
+.progress {
+  height: 25px;
+  font-weight: bold;
+}
